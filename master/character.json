@@ -1,0 +1,334 @@
+{
+  "characters": [
+    {
+      "character_id": 1,
+      "character_alpha": "RYU",
+      "character_tool_name": "ryu",
+      "character_sort": 12,
+      "character_name": {
+        "ja-jp": "リュウ",
+        "en-us": "Ryu"
+      }
+    },
+    {
+      "character_id": 2,
+      "character_alpha": "LUKE",
+      "character_tool_name": "luke",
+      "character_sort": 2,
+      "character_name": {
+        "ja-jp": "ルーク",
+        "en-us": "Luke"
+      }
+    },
+    {
+      "character_id": 3,
+      "character_alpha": "KIMBERLY",
+      "character_tool_name": "kimberly",
+      "character_sort": 5,
+      "character_name": {
+        "ja-jp": "キンバリー",
+        "en-us": "Kimberly"
+      }
+    },
+    {
+      "character_id": 4,
+      "character_alpha": "CHUN-LI",
+      "character_tool_name": "chunli",
+      "character_sort": 17,
+      "character_name": {
+        "ja-jp": "春麗",
+        "en-us": "Chun-Li"
+      }
+    },
+    {
+      "character_id": 5,
+      "character_alpha": "MANON",
+      "character_tool_name": "manon",
+      "character_sort": 4,
+      "character_name": {
+        "ja-jp": "マノン",
+        "en-us": "Manon"
+      }
+    },
+    {
+      "character_id": 6,
+      "character_alpha": "ZANGIEF",
+      "character_tool_name": "zangief",
+      "character_sort": 18,
+      "character_name": {
+        "ja-jp": "ザンギエフ",
+        "en-us": "Zangief"
+      }
+    },
+    {
+      "character_id": 7,
+      "character_alpha": "JP",
+      "character_tool_name": "jp",
+      "character_sort": 8,
+      "character_name": {
+        "ja-jp": "JP",
+        "en-us": "JP"
+      }
+    },
+    {
+      "character_id": 8,
+      "character_alpha": "DHALSIM",
+      "character_tool_name": "dhalsim",
+      "character_sort": 19,
+      "character_name": {
+        "ja-jp": "ダルシム",
+        "en-us": "Dhalsim"
+      }
+    },
+    {
+      "character_id": 9,
+      "character_alpha": "CAMMY",
+      "character_tool_name": "cammy",
+      "character_sort": 11,
+      "character_name": {
+        "ja-jp": "キャミィ",
+        "en-us": "Cammy"
+      }
+    },
+    {
+      "character_id": 10,
+      "character_alpha": "KEN",
+      "character_tool_name": "ken",
+      "character_sort": 16,
+      "character_name": {
+        "ja-jp": "ケン",
+        "en-us": "Ken"
+      }
+    },
+    {
+      "character_id": 11,
+      "character_alpha": "DEE JAY",
+      "character_tool_name": "deejay",
+      "character_sort": 10,
+      "character_name": {
+        "ja-jp": "ディージェイ",
+        "en-us": "Dee Jay"
+      }
+    },
+    {
+      "character_id": 12,
+      "character_alpha": "LILY",
+      "character_tool_name": "lily",
+      "character_sort": 7,
+      "character_name": {
+        "ja-jp": "リリー",
+        "en-us": "Lily"
+      }
+    },
+    {
+      "character_id": 13,
+      "character_alpha": "A.K.I.",
+      "character_tool_name": "aki",
+      "character_sort": 21,
+      "character_name": {
+        "ja-jp": "A.K.I.",
+        "en-us": "A.K.I."
+      }
+    },
+    {
+      "character_id": 14,
+      "character_alpha": "RASHID",
+      "character_tool_name": "rashid",
+      "character_sort": 20,
+      "character_name": {
+        "ja-jp": "ラシード",
+        "en-us": "Rashid"
+      }
+    },
+    {
+      "character_id": 15,
+      "character_alpha": "BLANKA",
+      "character_tool_name": "blanka",
+      "character_sort": 14,
+      "character_name": {
+        "ja-jp": "ブランカ",
+        "en-us": "Blanka"
+      }
+    },
+    {
+      "character_id": 16,
+      "character_alpha": "JURI",
+      "character_tool_name": "juri",
+      "character_sort": 9,
+      "character_name": {
+        "ja-jp": "ジュリ",
+        "en-us": "Juri"
+      }
+    },
+    {
+      "character_id": 17,
+      "character_alpha": "MARISA",
+      "character_tool_name": "marisa",
+      "character_sort": 6,
+      "character_name": {
+        "ja-jp": "マリーザ",
+        "en-us": "Marisa"
+      }
+    },
+    {
+      "character_id": 18,
+      "character_alpha": "GUILE",
+      "character_tool_name": "guile",
+      "character_sort": 15,
+      "character_name": {
+        "ja-jp": "ガイル",
+        "en-us": "Guile"
+      }
+    },
+    {
+      "character_id": 19,
+      "character_alpha": "ED",
+      "character_tool_name": "ed",
+      "character_sort": 22,
+      "character_name": {
+        "ja-jp": "エド",
+        "en-us": "Ed"
+      }
+    },
+    {
+      "character_id": 20,
+      "character_alpha": "E.HONDA",
+      "character_tool_name": "honda",
+      "character_sort": 13,
+      "character_name": {
+        "ja-jp": "エドモンド本田",
+        "en-us": "E. Honda"
+      }
+    },
+    {
+      "character_id": 21,
+      "character_alpha": "JAMIE",
+      "character_tool_name": "jamie",
+      "character_sort": 3,
+      "character_name": {
+        "ja-jp": "ジェイミー",
+        "en-us": "Jamie"
+      }
+    },
+    {
+      "character_id": 22,
+      "character_alpha": "GOUKI",
+      "character_tool_name": "gouki",
+      "character_sort": 23,
+      "character_name": {
+        "ja-jp": "豪鬼",
+        "en-us": "Akuma"
+      }
+    },
+    {
+      "character_id": 25,
+      "character_alpha": "SAGAT",
+      "character_tool_name": "sagat",
+      "character_sort": 28,
+      "character_name": {
+        "ja-jp": "サガット",
+        "en-us": "Sagat"
+      }
+    },
+    {
+      "character_id": 26,
+      "character_alpha": "VEGA",
+      "character_tool_name": "vega",
+      "character_sort": 24,
+      "character_name": {
+        "ja-jp": "ベガ",
+        "en-us": "M. Bison"
+      }
+    },
+    {
+      "character_id": 27,
+      "character_alpha": "TERRY",
+      "character_tool_name": "terry",
+      "character_sort": 25,
+      "character_name": {
+        "ja-jp": "テリー",
+        "en-us": "Terry"
+      }
+    },
+    {
+      "character_id": 28,
+      "character_alpha": "MAI",
+      "character_tool_name": "mai",
+      "character_sort": 26,
+      "character_name": {
+        "ja-jp": "舞",
+        "en-us": "Mai"
+      }
+    },
+    {
+      "character_id": 29,
+      "character_alpha": "ELENA",
+      "character_tool_name": "elena",
+      "character_sort": 27,
+      "character_name": {
+        "ja-jp": "エレナ",
+        "en-us": "Elena"
+      }
+    },
+    {
+      "character_id": 30,
+      "character_alpha": "C.VIPER",
+      "character_tool_name": "cviper",
+      "character_sort": 29,
+      "character_name": {
+        "ja-jp": "C.ヴァイパー",
+        "en-us": "C. Viper"
+      }
+    },
+    {
+      "character_id": 31,
+      "character_alpha": "ALEX",
+      "character_tool_name": "alex",
+      "character_sort": 30,
+      "character_name": {
+        "ja-jp": "アレックス",
+        "en-us": "Alex"
+      }
+    },
+    {
+      "character_id": 32,
+      "character_alpha": "INGRID",
+      "character_tool_name": "ingrid",
+      "character_sort": 31,
+      "character_name": {
+        "ja-jp": "イングリッド",
+        "en-us": "Ingrid"
+      }
+    },
+    {
+      "character_id": 33,
+      "character_alpha": "YASMINE",
+      "character_tool_name": "yasmine",
+      "character_sort": 32,
+      "character_name": {
+        "ja-jp": "ヤスミン",
+        "en-us": "Yasmine"
+      }
+    },
+    {
+      "character_id": 34,
+      "character_alpha": "ARJUN",
+      "character_tool_name": "arjun",
+      "character_sort": 33,
+      "character_name": {
+        "ja-jp": "アルジュン",
+        "en-us": "ARJUN"
+      }
+    },
+    {
+      "character_id": 254,
+      "character_alpha": "RANDOM",
+      "character_tool_name": "random",
+      "character_sort": 254,
+      "character_name": {
+        "ja-jp": "ランダム",
+        "en-us": "RANDOM"
+      }
+    }
+  ]
+}
